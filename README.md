@@ -1,2 +1,2 @@
 # edinet_parser
-A better parser for EDINET xrbl files
+A better parser for EDINET XBRL files
